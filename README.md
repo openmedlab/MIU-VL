@@ -251,12 +251,11 @@ Our code is adapted from the [GLIP](https://github.com/microsoft/GLIP.git) proje
 
 If you find this repository useful, please consider citing this paper:
 ```
-@article{Qin2022MedicalIU,
-  title={Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study},
-  author={Ziyuan Qin and Huahui Yi and Qicheng Lao and Kang Li},
-  journal={ArXiv},
-  year={2022},
-  volume={abs/2209.15517}
+@inproceedings{qin2022medical,
+  title={MEDICAL IMAGE UNDERSTANDING WITH PRETRAINED VISION LANGUAGE MODELS: A COMPREHENSIVE STUDY},
+  author={Qin, Ziyuan and Yi, Hua Hui and Lao, Qicheng and Li, Kang},
+  booktitle={The Eleventh International Conference on Learning Representations},
+  year={2022}
 }
 ```
 
